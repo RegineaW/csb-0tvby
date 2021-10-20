@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://regineaw.github.io/csb-0tvby/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://regineaw.github.io/csb-0tvby/static/js/main.64853966.chunk.js",
+    "main.js.map": "https://regineaw.github.io/csb-0tvby/static/js/main.64853966.chunk.js.map",
+    "runtime-main.js": "https://regineaw.github.io/csb-0tvby/static/js/runtime-main.af9e9594.js",
+    "runtime-main.js.map": "https://regineaw.github.io/csb-0tvby/static/js/runtime-main.af9e9594.js.map",
+    "static/js/2.26bcd045.chunk.js": "https://regineaw.github.io/csb-0tvby/static/js/2.26bcd045.chunk.js",
+    "static/js/2.26bcd045.chunk.js.map": "https://regineaw.github.io/csb-0tvby/static/js/2.26bcd045.chunk.js.map",
+    "index.html": "https://regineaw.github.io/csb-0tvby/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://regineaw.github.io/csb-0tvby/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.26bcd045.chunk.js.LICENSE.txt": "https://regineaw.github.io/csb-0tvby/static/js/2.26bcd045.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af9e9594.js",
+    "static/js/2.26bcd045.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.64853966.chunk.js"
+  ]
+}
